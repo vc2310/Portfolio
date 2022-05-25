@@ -250,7 +250,7 @@ textarea {
   }
 }
 
-.highlight{
+.highlight {
   color: blue;
 }
 
@@ -2927,8 +2927,9 @@ table.alt tbody tr td {
   height: 100px;
 }
 
-.name_logo{
- border-radius: 50%;
+.name_logo {
+  border-radius: 50%;
+  height: 200px;
 }
 .features li:nth-child(1),
 .features li:nth-child(2) {
@@ -3193,7 +3194,7 @@ table.alt tbody tr td {
 }
 
 #header.alt {
-  padding: 7em 5em 4em 5em;
+  padding: 3em 5em 2em 5em;
 }
 
 #header.alt h1 {
